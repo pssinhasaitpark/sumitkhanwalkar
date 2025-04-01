@@ -1,0 +1,9 @@
+.text-color{
+    background: radial-gradient(circle, rgba(63, 94, 251, 1) 0%, rgba(70, 252, 222, 1) 100%) !important;
+    -webkit-background-clip: text !important;
+    color: transparent !important; 
+}
+.bg-danger{
+    background: rgb(63,94,251) !important;
+    background: radial-gradient(circle, rgba(63,94,251,1) 0%, rgba(1,126,134,1) 100%) !important;
+}
